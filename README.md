@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivam Kumbhakarna</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamsk2004" alt="shivamsk2004" /></a> </p>
-
 - 🔭 I’m currently working on **Agri-Connect**
 
 - 🌱 I’m currently learning **Cloud Computing**
